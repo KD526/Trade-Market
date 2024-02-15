@@ -1,0 +1,15 @@
+{
+  "name": "trade-market",
+  "version": "1.0.0",
+  "description": "\"Exchange item to ETH\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Kd526",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.20.0"
+  }
+}
