@@ -12,15 +12,12 @@ The Sale Agreement project features a Solidity smart contract designed for the E
 
 ## Ensure the following tools are installed on your system:
 
-[Node.js (v12.x or higher)]
-(https://nodejs.org/en)
+- [Node.js (v12.x or higher)](https://nodejs.org/en)
 
-[npm (bundled with Node.js)]
-(https://www.npmjs.com/)
+- [npm (bundled with Node.js)](https://www.npmjs.com/)
 
-[An IDE or text editor (e.g., Visual Studio Code)
-]
-(https://code.visualstudio.com/)
+- [An IDE or text editor (e.g., Visual Studio Code)
+](https://code.visualstudio.com/)
 
 ## Setting Up the Development Environment
 
