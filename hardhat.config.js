@@ -1,4 +1,5 @@
 require("@nomicfoundation/hardhat-ethers");
+require("@nomicfoundation/hardhat-toolbox");
 require("solidity-coverage");
 
 module.exports = {
@@ -7,7 +8,7 @@ module.exports = {
     hardhat: {
       // Configuration for the Hardhat Network
     },
-    // You can specify other networks here, like Rinkeby or Mainnet
+    // specify other networks here, like Rinkeby or Mainnet
   },
   paths: {
     sources: "./contracts",
@@ -16,8 +17,7 @@ module.exports = {
     artifacts: "./artifacts"
   },
   mocha: {
-    // Mocha configuration, if you want to specify timeout or other settings
+    // Mocha configuration
     timeout: 200000 // Example timeout configuration
   }
-  // You can add other configurations like etherscan API keys if you plan to verify contracts
 };
